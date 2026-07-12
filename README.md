@@ -1,2 +1,17 @@
-# EASY-Resilience
-A social innovation product focusing on psychological resilience, transforming emotional clarification into AI-generated musical experiences.
+# EASY - 数字化心理韧性与情绪澄清系统
+
+EASY 是一款致力于重塑现代人心理韧性（Psychological Resilience）的社会创新产品。该项目由我独立提出概念并全程主导产品定位、视觉愿景（Slogan）以及全盘协作流转。
+
+## 🎯 产品核心定位 (Product Positioning)
+传统的心理干预工具往往流于说教或流程式问卷，使用阻力极大。**EASY** 另辟蹊径，聚焦于“无意识情绪的具象化澄清”。通过极其温柔且低门槛的交互，引导用户将内耗碎片转化为可视、可听的情感资产，重塑个体在逆境中的心理弹性。
+
+## 🚀 我的核心主导贡献 (My Leadership & Contributions)
+作为项目的 **Product Owner (产品负责人)**，我全链路推进了以下产品里程碑：
+* **0-1 概念孵化**：独立完成“心理韧性”议题的产品化降维拆解，提炼核心品牌愿景与 Slogan。
+* **原型交互推演**：主导团队使用 Figma 绘制高保真产品原型，创造性地引入“基于情绪日志生成定制音乐”等 AIGC 情感陪伴机制。
+* **横向团队协同 (Lateral Leadership)**：协调组织 4 人跨职能团队，将宏大的社会创新理念精准收敛为清晰的产品功能开发排期，实现无绝对职权下的高效愿景驱动。
+* **商业宣发与路演**：全盘负责项目商业价值的叙事逻辑架构，统筹制作 5 分钟项目演示视频，完成高质量的商业路演交付。
+
+## 💎 产品设计资产 (Design Artifacts)
+* **Figma Prototype**: [此处在网页上可以点击查看高保真原型]
+* **Pitch Video**: [5分钟核心路演演示视频链接]
