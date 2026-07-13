@@ -12,6 +12,7 @@ EASY 是一款致力于重塑现代人心理韧性（Psychological Resilience）
 * **横向团队协同 (Lateral Leadership)**：协调组织 4 人跨职能团队，将宏大的社会创新理念精准收敛为清晰的产品功能开发排期，实现无绝对职权下的高效愿景驱动。
 * **商业宣发与路演**：全盘负责项目商业价值的叙事逻辑架构，统筹制作 5 分钟项目演示视频，完成高质量的商业路演交付。
 
-## 💎 产品设计资产 (Design Artifacts)
-* **Figma Prototype**: [此处在网页上可以点击查看高保真原型]
-* **Pitch Video**: [5分钟核心路演演示视频链接]
+* ### 🎬 核心商业路演 (Pitch Video)
+点击下方图片查看 5 分钟完整产品演示：
+
+[![EASY Pitch Video]([(https://github.com/Unizore2711/EASY-Resilience/blob/main/%E5%9B%BE%E5%83%8F.png)]((https://youtu.be/326Z6Il81HU))
