@@ -14,4 +14,4 @@ EASY 是一款致力于重塑现代人心理韧性（Psychological Resilience）
 
 * ### 🎬 核心商业路演 (Pitch Video)
 点击下方图片查看 5 分钟完整产品演示：
-[![EASY Pitch Video](图像.png)]((https://youtu.be/326Z6Il81HU))
+[![cover](https://github.com/user-attachments/assets/598ff3e4-b83a-4f0c-986e-55611c2c1691)](https://youtu.be/326Z6Il81HU)
